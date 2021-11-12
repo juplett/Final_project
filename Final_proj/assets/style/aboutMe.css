@@ -1,0 +1,46 @@
+@import "base.css";
+
+
+#titlepg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#titlepg h2{
+    padding-top: 30px;
+    font-weight: 700;
+}
+
+#flexbox{
+    width: 100%;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+h2{
+    font-size: 25px;
+    font-weight: 500;
+}
+
+#About{
+   width: 650px;
+   margin-top: 50px;
+   margin-bottom: 50px;
+}
+
+#About h2{
+    padding-bottom: 10px;
+}
+
+#About p{
+    font-weight: 400;
+}
+
+#About img{
+    width: 400px;
+    height: 300px;
+    padding: 30px 0;
+}
+
