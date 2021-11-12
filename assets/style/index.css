@@ -138,6 +138,10 @@ section{
     transition: all 2.5 ease-in-out;
   }
 
+  .button a:hover{
+      box-shadow: 2px 2px #b13e33b2;
+  }
+
 #intro .button a{
     margin-top: 15px;
     background-color: #d94c3fd7;
